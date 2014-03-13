@@ -46,5 +46,5 @@ A student should be able to:
 * fetching remote branches
 * merging remote branches into local branch
 * rebasing remote branches into local branch
-* what 2 command git pull contains
+* what 2 commands git pull contains
 * Understand why it is good to continually to keep up to date with origin/master
