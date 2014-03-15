@@ -38,7 +38,7 @@ A student should be able to:
 * Show how branches have diverged
 * Merge new branch back into master
 * Draw what this merge looks like
-* How a merge conflict gets created
+* Explain how a merge conflict gets created
 * How to identify and fix a merge conflict
 * how to rebase a branch into another branch
 * Rebase vs merge
@@ -46,5 +46,5 @@ A student should be able to:
 * fetching remote branches
 * merging remote branches into local branch
 * rebasing remote branches into local branch
-* what 2 command git pull contains
+* what 2 commands git pull contains
 * Understand why it is good to continually to keep up to date with origin/master

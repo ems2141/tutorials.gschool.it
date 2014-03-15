@@ -40,7 +40,7 @@ very cheap to change the menu items that show up on the homepage.  Each menu ite
 * A price
 * An image
 
-They provided this list in a CSV file.
+They provided this list in a CSV file. 
 
 ## References
 
